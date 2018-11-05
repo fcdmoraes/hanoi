@@ -24,4 +24,5 @@ Tkinter interface for Hanoi Tower which also accept terminal commands
 >> hanoi = Hanoi(5)
 >> hanoi.solve(0.1)
 >> hanoi.destroy()
-<\code><\pre>
+
+</code></pre>
