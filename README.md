@@ -1,7 +1,7 @@
 # hanoi
 Tkinter interface for Hanoi Tower which also accept terminal commands 
 
-API
+**API**
 
 Hanoi(n)
   Crate an interface for a Hanoi Tower with n disks.
@@ -20,9 +20,15 @@ Hanoi(n)
 
 example:
 
+
 >> from hanoi import Hanoi
+
 >> hanoi = Hanoi(4)
+
 >> hanoi.mudar(0, 1)
+
 >> hanoi = Hanoi(5)
+
 >> hanoi.solve(0.1)
+
 >> hanoi.destroy()
